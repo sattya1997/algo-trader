@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/algo-trader/static/css/main.27c252cf.css",
-    "main.js": "/algo-trader/static/js/main.caa82765.js",
+    "main.css": "/algo-trader/static/css/main.7448f257.css",
+    "main.js": "/algo-trader/static/js/main.5d8d3da0.js",
     "index.html": "/algo-trader/index.html",
-    "main.27c252cf.css.map": "/algo-trader/static/css/main.27c252cf.css.map",
-    "main.caa82765.js.map": "/algo-trader/static/js/main.caa82765.js.map"
+    "main.7448f257.css.map": "/algo-trader/static/css/main.7448f257.css.map",
+    "main.5d8d3da0.js.map": "/algo-trader/static/js/main.5d8d3da0.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c252cf.css",
-    "static/js/main.caa82765.js"
+    "static/css/main.7448f257.css",
+    "static/js/main.5d8d3da0.js"
   ]
 }
